@@ -1,14 +1,9 @@
 # 3dwrx-Samsung-Socket-Mount
 
-
-Link to the product on Thingiverse:
-https://www.thingiverse.com/thing:3339604
-
-
-
-**Why this design?**
-
-While traveling I often encounter the situation, that there is no socket to power your equipment. Very often there is a socket directly next to the entrance of the hotel room e.g. for fast cleaning while hotels miss to orientate on the demand of the traveler that, nowadays has much more gadgets than years ago. So, I decided to create this thing to overcome this issue by making a spot for your mobile at each socket.
+## The purpose of 3dwrx-Samsung-Socket-Mount
+The idea behind this design lies in situation that I believe many of us has experienced. While traveling I often experience a situation where I don't have socket to power my digital equipment. When there is a socket, it is directly next to the entrance of the hotel room and it is not what the traveler will demand especially nowadays when one person has much more gadgets than years ago.
+To overcome this issue, I have made this design and I made my life much easier. 
+With this design you can make a spot for your mobile at each socket without any problem. 
 
 
 <p align="center">
@@ -20,17 +15,21 @@ While traveling I often encounter the situation, that there is no socket to powe
 </p>
 
 
-**What are the core features?**
+## What are the core features?
 
-• Watch „whatever„ content while charging your phone
+• use your phone while charging
 
-• Perfect level of height
+• level of height is pefect for usage
 
-• Fits for European sockets and Samsung charger
+• can be used for European sockets and Samsung chargers
 
-• Supports landscape mode as well as normal operations
+• supports both landscape and normal mode
 
 
-**How to print:**
+## How to setup:
 
-Orientate the part faced with the socket side to the buttom of your printer and print.
+Orientate the part faced with the socket side to the bottom of your printer and print.
+After printing you are able to use any socket, wherever you are.
+
+## Disclaimer:
+However, since most of the application is depending on the assembly, the chosen components other then the mount, the level of adjustment from your side, the print settings as well as the particular environment you want to use the solution, it might be good to take it with a grain of salt. I‘m not granting any warranty nor taking any responsibility for this solution to work in your case. Please check upon using if the solution can work for you in your particular use case following own steps for qualification such as checking the setup and components before using and considering and checking own laws and regulations before bringing the solution into action.
